@@ -2,7 +2,7 @@
 
 ![slide1](https://github.com/udaypatel89/NuroVetaAi/blob/main/website/static/images/readme1.png)
 
-## AltairCare app can be accessed [here](https://altaircare.onrender.com)
+## Nuroveta app can be accessed [here](https://nurovetaai.onrender.com/)
 
 Artificial intelligence is a rapidly developing field with new improvements that happen every day. It allows the automation and simplification of human activities in different industries like agriculture, banking and financial services, healthcare, travel, and more.
 
@@ -42,7 +42,7 @@ All the datasets used to train the models can be found on the Kaggle website.
 ### Clone this Repository:
 
 ```sh
-git clone https://github.com/kaymen99/Healthcare-AI-WebApp.git
+git clone https://github.com/udaypatel89/NuroVetaAi
 cd Healthcare-AI-WebApp
 ```
 
@@ -74,6 +74,5 @@ Run the Docker container:
 docker run -p 5000:5000 healthcare-ai-webapp
 ```
 
-You should be able to access your app by visiting [http://localhost:5000/](http://localhost:5000/) in your browser.# NuroVetaAi
-# NuroVetaAi
+You should be able to access your app by visiting [http://localhost:5000/](http://localhost:5000/) in your browser.
 # NuroVetaAi
